@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://bradenjensen.info",
+  "homepage": "https://sailordwayne.github.io/portfoliowebsite",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
