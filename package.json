@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sailordwayne.github.io/protfoliowebsite",
+  "homepage": "https://sailordwayne.github.io/portfoliowebsite",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
@@ -15,7 +15,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
