@@ -8,9 +8,10 @@ export const devprojects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description: "Lorem ipsum",
+    title: "DevChat",
+    subtitle: "React and Firebase",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
@@ -35,35 +36,35 @@ export const devprojects = [
 export const vidprojects = [
   {
     title: "Front Bottoms Fan made Music Video",
-    subtitle: "Premiere Pro",
+    subtitle: "Video Editing and Production",
     description:
       'A fan made music video for the song "Cough It Out" by The Front Bottoms. It was filmed locally and was my first try at a music video.',
     image: "./pictures/coughitout.jpeg",
     link: "https://www.youtube.com/watch?v=qi5Oxne2YcE&ab_channel=BradenJensen",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Loft 801",
+    subtitle: "Video Editing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A channel dedicated to all things entertainment. Loft 801 is a YouTube channel that I do a lot of the video editing for.",
+    image: "./pictures/loft801.png",
+    link: "https://www.youtube.com/channel/UCGl_z1XUdHcQaYey50-oahg",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Friends With Benefits",
+    subtitle: "Video Editing and Production",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Friends With Benefits is a podcast that I did a lot of production work on. From set up to editing to being featured I helped with it all.",
+    image: "./pictures/fwb.png",
+    link: "https://www.youtube.com/channel/UCPH3Rg4NrF1w2QBtXU897Fw",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Sailor Dwayne",
+    subtitle: "Video Editing and Production",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A personal YouTube account where I have edited gameplay and specific interest videos. Most of the content is highlights edited off Twitch live steams.",
+    image: "./pictures/sailordwayne.png",
+    link: "https://www.youtube.com/channel/UCjLNnscAo1bcbclRlO_dNmw",
   },
 ];
 

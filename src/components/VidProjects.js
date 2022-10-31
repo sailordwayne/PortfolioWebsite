@@ -12,9 +12,10 @@ export default function Projects() {
             Videos I've worked on.
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Editing, Production, Performance, I do it all when it comes to
+            content creation. I have worked on many projects including some
+            informational videos for the United States Air Force that I can't
+            show here.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

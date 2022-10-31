@@ -14,11 +14,11 @@ export default function Navbar() {
           <a href="#devprojects" className="mr-5 hover:text-white">
             Development Projects
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
-            Skills
-          </a>
           <a href="#vidprojects" className="mr-5 hover:text-white">
             Video Projects
+          </a>
+          <a href="#skills" className="mr-5 hover:text-white">
+            Skills
           </a>
         </nav>
         <a
