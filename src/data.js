@@ -5,31 +5,31 @@ export const devprojects = [
     description:
       "Painted World shader to make your unreal project look like it came straight out of a storybook. It works over any model giving it a brushed paint smeared look.",
     image: "./pictures/paintedworld.jpg",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Over Shift",
+    subtitle: "Unity",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A small racing demo made in Unity. Includes shifting, drifting and racing mechanics. Has a very basic time trail as the only mode.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Mouse Fantasy",
+    subtitle: "Unreal",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "A top down fantasy ARPG where you play as a mouse just coming of age to start going on adventures with an odd band of local mercenaries.",
+    image: "./pictures/MouseFantasyBlue.png",
+    link: "",
   },
   {
-    title: "yup",
-    subtitle: "React Hooks",
+    title: "Mobile Employee Education Profile",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A web app that helps new USAF employees and interns keep track of all the trainings and classes they have to take before they move on to their projects.",
+    image: "./pictures/MEEP.png",
+    link: "",
   },
 ];
 
