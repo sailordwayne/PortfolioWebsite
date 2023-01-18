@@ -12,7 +12,7 @@ export const devprojects = [
     subtitle: "Unity",
     description:
       "A small racing demo made in Unity. Includes shifting, drifting and racing mechanics. Has a very basic time trail as the only mode.",
-    image: "./project-2.gif",
+    image: "./pictures/OverShift.gif",
     link: "",
   },
   {

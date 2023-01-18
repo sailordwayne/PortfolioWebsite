@@ -17,14 +17,14 @@ export default function Projects() {
             some examples of my work.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 h-full">
           {devprojects.map((devproject) => (
             <a
               //href={devproject.link}
               key={devproject.image}
               className="sm:w-1/2 w-100 p-4"
             >
-              <div className="flex relative">
+              <div className="flex relative h-full">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"

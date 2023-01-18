@@ -25,7 +25,7 @@ export default function Projects() {
               key={vidproject.image}
               className="sm:w-1/2 w-100 p-4"
             >
-              <div className="flex relative">
+              <div className="flex relative h-full">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
