@@ -11,6 +11,7 @@
     "react-scripts": "^1.1.5",
     "yarn": "^1.22.19"
   },
+  "comment1": "To install gh-pages with npm use 'npm i --save-dev gh-pages' and with yarn use 'yarn add --dev gh-pages'",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
