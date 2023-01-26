@@ -24,10 +24,6 @@ export default function Contact() {
               <a className="text-indigo-400 leading-relaxed">
                 18bjensen3@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
-              </h2>
-              <p className="leading-relaxed">385-319-1702</p>
             </div>
           </div>
         </div>
