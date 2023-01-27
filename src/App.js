@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import DevProjects from "./components/DevProjects";
 import Skills from "./components/Skills";
 import VidProjects from "./components/VidProjects";
+import Certificates from "./components/Certificates";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <DevProjects />
       <VidProjects />
       <Skills />
+      <Certificates />
       <Contact />
     </main>
   );

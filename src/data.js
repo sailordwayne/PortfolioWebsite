@@ -75,6 +75,17 @@ export const skills = [
   "Unreal",
   "Unity",
   "Godot",
-  "Premiere Pro",
-  "Photoshop",
+  "React",
+  "Front End Development",
+];
+
+export const certificates = [
+  {
+    name: "Proficiency in Programming Essentials",
+    source: "Weber State University",
+  },
+  {
+    name: "Proficiency in Game Development",
+    source: "Weber State University",
+  },
 ];

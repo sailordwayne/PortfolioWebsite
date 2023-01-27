@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          <a href="#certificates" className="mr-5 hover:text-white">
+            Certificates
+          </a>
         </nav>
         <a
           href="#contact"
